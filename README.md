@@ -13,6 +13,7 @@ Example:
 Input:
 2 (2 servers)
 10 60 50 15 20 (On 1st minute - 10% load, on 2nd minute - 60% load & so on)
+
 Output:
 1 (After 5 minute, 1 server is running)
 
@@ -30,9 +31,11 @@ restaurant
 Second input is: Price of Vadapav & price of Samosapav set by the restaurant
 Output:
 Maximum profit possible
+
 Example:
 Input:
 9 2 3 (9 breads, 2 vada, 3 samosa)
 10 15 (Rs.10 - Vadapav, Rs.15 - Samosapav)
+
 Output:
 55 (Maximum profit possible is Rs.55)
